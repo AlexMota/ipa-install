@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.saleh7.testapp</string>
+				<string>com.artnewtecnologia.artvendas</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
